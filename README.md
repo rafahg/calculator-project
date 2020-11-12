@@ -11,7 +11,10 @@ Next steps in functionality:
   - Add calculations memory.
   - Translate to React.
    - Full test with Jest and Cypress.
-   - 
+
+Deployed in Githu
+
+
        
 
 
