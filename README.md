@@ -12,7 +12,9 @@ Next steps in functionality:
   - Translate to React.
    - Full test with Jest and Cypress.
 
-Deployed in Githu
+Deployed in Github pages
+
+   [Calculator!](https://rafahg.github.io/calculator-project/)
 
 
        
